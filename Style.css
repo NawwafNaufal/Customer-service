@@ -1,0 +1,8 @@
+.field .item::placeholder{
+    color: black;
+}
+
+.field .error-txt{
+    color: red;
+    font-size: small    ;
+}
